@@ -47,6 +47,6 @@ User: root Password: (means no password!)
 WEBDAV:
 
 
-User: mark.jhon Password: 87654321
-
+User: 'mark.jhon' Password: '87654321' and create account for tecnician
+users can create their account by themself
 
